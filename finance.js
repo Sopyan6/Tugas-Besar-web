@@ -1,3 +1,4 @@
+
 export class Transaction {
   constructor(type, category, amount, description) {
     this.type = type;
